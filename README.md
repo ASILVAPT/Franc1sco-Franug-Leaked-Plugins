@@ -1,6 +1,8 @@
 # About Franc1sco
 Franc1sco sells overprice, poorly written code for around 25+ USD. He claims to be a "Veteran Sourcemod Coder" but still __Steals__ code off other users without mentioning them at all. 
 
+__Feel free to download his "private" plugins above__
+
 __So what do you get for $25+?__
 - Bad support.
 - Badly written plugins.
