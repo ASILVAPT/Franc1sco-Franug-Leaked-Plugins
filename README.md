@@ -42,7 +42,7 @@ __Submit a issus to add anything to this list__
 - He claims all other plugins what provide a similar thing might give you viruses.
 - All other plugins will result in a GSLT ban.
 - He doesn't clearly state the ws plugin doesn't come with !knife. But after purchase the private repository clearly says "If you want a !knife plugin you need to use the private knife version, if you still dont have it, then buy it from me (Franc1sco franug)."
-- Selling illegal plugins for profit would could result in his clients being taken to court.
+- Selling illegal plugins for profit would could result in his clients being taken to court. For example his __Plugin multi adverts__ plugin breaks most MOTD advertisers terms of service.
 - Telling clients to not include .sp files.
 
 # Illegal / Unethical Plugins
