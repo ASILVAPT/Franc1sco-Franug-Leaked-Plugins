@@ -28,6 +28,7 @@ __Submit a issus to add anything to this list__
 
 # Franc1sco Contact
 __NEVER BUY ANYTHING OFF HIM__
+
 [Github](https://github.com/Franc1sco/Franug-PRIVATE-PLUGINS)
 [Steam](http://steamcommunity.com/profiles/76561198011608644)
 [Telegram](https://t.me/Franc1sco)
