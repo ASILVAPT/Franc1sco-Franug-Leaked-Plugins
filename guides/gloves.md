@@ -1,3 +1,5 @@
+[<- Back](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins)
+
 Commands for open the main menu:
 - sm_glove
 - sm_gloves
