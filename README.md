@@ -11,10 +11,10 @@ __So what do you get for $25+?__
 - Stolen code. (He has admitted to it.) [Proof](https://i.gyazo.com/257a7f0657a24acdff7b693197ff61dd.png)
 
 # Releases
-* Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/gloves.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/CSGO-Gloves-master.zip) | Gloves
-* Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/knife.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/New-Franug-PRIVATE-knifes-master.zip) | Knife
-* Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/ws.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/PRIVATE-WeaponPaints-new2-master.zip) | WS
-* Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/invite.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Franug-AutoInviter-master.zip) | Steam Group Invite
+- Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/gloves.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/CSGO-Gloves-master.zip) | Gloves
+- Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/knife.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/New-Franug-PRIVATE-knifes-master.zip) | Knife
+- Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/ws.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/PRIVATE-WeaponPaints-new2-master.zip) | WS
+- Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/invite.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Franug-AutoInviter-master.zip) | Steam Group Invite
 
 ```
 Have Private Plugins From Franc1sco?
