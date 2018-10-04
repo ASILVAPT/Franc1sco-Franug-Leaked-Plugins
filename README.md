@@ -37,7 +37,7 @@ Notes: (Read)
 - He tried to make his own steam invite bot at first, ended up stealing this code later on from [Better Steam Invite](https://forums.alliedmods.net/showthread.php?t=301755), also Arkarr is a really nice guy, helped me out a lot for free.
 
 ```
-Submit a issue on Github or email me to added another rplacement.
+Submit a issue on Github or email me to added another replacement.
 ```
 
 # Franc1sco unethical business
