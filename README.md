@@ -45,13 +45,13 @@ __Submit a issus to add anything to this list__
 - Telling clients to not include .sp files.
 
 # Illegal / Unethical Plugins
-* Plugin multi adverts: for use all the advertisement services like motgd, sourcerev, VPPGamingNetwork, etc in one plugin, increasing a lot the earnings.
-* Block "sm plugins" commands: for prevent that people can see the plugin list from your server. Include logging the client that try to use that commands, multi-language messege, inmmunity for root admins.
-* Weapon paints private version 6.x: fix console spam errors, fixes, optimizations include weapon paint attached to his corresponding weapon,multi-language support for all the paints, always updated with the new paints, full support, and methods for prevent bans in your server and you can use it always.
-* Knife plugin 3.0: Fix console spam errors, flag support for each knife, always updated with the new knives, full support, and methods for prevent bans in your server and you can use it always.
-* Valve Competitive Rank (Stamm version) plugin: Adapted to the Stamm vip plugin. Always updated and support for prevent bans in your server. Video: https://www.youtube.com/watch?v=g6XHoO3cE4Q
-* Valve Competitive Rank (RankMe Edition): Players are ranking by RankMe points, plugin easily configurable, include rank overlays (all the rankme versions supported).
-* Valve items menu: A menu with all the valve items availables in your server (ws, knife, sprays, ranks, music, gloves). Check video here: https://www.youtube.com/watch?v=I407YAmXRRI
+* __Plugin multi adverts__: for use all the advertisement services like motgd, sourcerev, VPPGamingNetwork, etc in one plugin, increasing a lot the earnings.
+* __Block "sm plugins" commands__: for prevent that people can see the plugin list from your server. Include logging the client that try to use that commands, multi-language messege, inmmunity for root admins.
+* __Weapon paints private version 6.x__: fix console spam errors, fixes, optimizations include weapon paint attached to his corresponding weapon,multi-language support for all the paints, always updated with the new paints, full support, and methods for prevent bans in your server and you can use it always.
+* __Knife plugin 3.0__: Fix console spam errors, flag support for each knife, always updated with the new knives, full support, and methods for prevent bans in your server and you can use it always.
+* __Valve Competitive Rank (Stamm version) plugin__ Adapted to the Stamm vip plugin. Always updated and support for prevent bans in your server. Video: https://www.youtube.com/watch?v=g6XHoO3cE4Q
+* __Valve Competitive Rank (RankMe Edition)__: Players are ranking by RankMe points, plugin easily configurable, include rank overlays (all the rankme versions supported).
+* __Valve items menu__: A menu with all the valve items availables in your server (ws, knife, sprays, ranks, music, gloves). Check video here: https://www.youtube.com/watch?v=I407YAmXRRI
 
 # Wanting a custom coded plugin?
 - [Submit a plugin request on alliedmods](https://forums.alliedmods.net/forumdisplay.php?f=60)
