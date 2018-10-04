@@ -48,12 +48,12 @@ __Submit a issus to add anything to this list__
 - Get a quota for time & cost.
 - Never use Franc1sco, he will overcharge & give you poorly written code.
 
+# Franc1sco Screenshot Gallery
+![Stealing code](https://i.gyazo.com/257a7f0657a24acdff7b693197ff61dd.png)
+
 # Franc1sco Contact
 __NEVER BUY ANYTHING OFF HIM__
 
 [Github](https://github.com/Franc1sco/Franug-PRIVATE-PLUGINS)
 [Steam](http://steamcommunity.com/profiles/76561198011608644)
 [Telegram](https://t.me/Franc1sco)
-
-# Franc1sco Screenshot Gallery
-![Stealing code](https://i.gyazo.com/257a7f0657a24acdff7b693197ff61dd.png)
