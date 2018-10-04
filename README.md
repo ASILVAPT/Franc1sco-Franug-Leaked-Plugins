@@ -21,11 +21,13 @@ __Have Private Plugins From Franc1sco?__
 > Email Me: fact.nation.buissness@gmail.com
 
 __Notes: (Read)__
-* Readme file from the repository.
+* A pastebin of the Readme file from the repository.
+* Screenshot of Readme helps.
 * Latest files, including sourcecode (.sp files).
 * Screenshots of Franc1sco being dumb.
 * Mention your Github if you want me to include it in the Release.
 * I will not include your details unless you give me permission.
+* Please use a well known site for downloading files.
 
 # Replacements for Franc1sco
 - csgo.tokenstash.com he is 100% working with these guys, use [csgotokens](https://csgotokens.com), its cheaper, better support & more options (auto restart & more...)
