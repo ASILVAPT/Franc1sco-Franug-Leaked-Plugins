@@ -37,10 +37,17 @@ __Notes: (Read)__
 
 __Submit a issus to add anything to this list__
 
-# Franc1sco unethical scare tactics
+# Franc1sco unethical business
 - He claims all other plugins what provide a similar thing might give you viruses.
 - All other plugins will result in a GSLT ban.
 - He doesn't clearly state the ws plugin doesn't come with !knife. But after purchase the private repository clearly says "If you want a !knife plugin you need to use the private knife version, if you still dont have it, then buy it from me (Franc1sco franug)."
+- Selling illegal plugins for profit would could result in his clients being taken to court.
+- Telling clients to not include .sp files.
+
+# Illegal / Unethical Plugins
+* Plugin multi adverts: for use all the advertisement services like motgd, sourcerev, VPPGamingNetwork, etc in one plugin, increasing a lot the earnings.
+* Block "sm plugins" commands: for prevent that people can see the plugin list from your server. Include logging the client that try to use that commands, multi-language messege, inmmunity for root admins.
+* Weapon paints private version 6.x: fix console spam errors, fixes, optimizations include weapon paint attached to his corresponding weapon,multi-language support for all the paints, always updated with the new paints, full support, and methods for prevent bans in your server and you can use it always.
 
 # Wanting a custom coded plugin?
 - [Submit a plugin request on alliedmods](https://forums.alliedmods.net/forumdisplay.php?f=60)
