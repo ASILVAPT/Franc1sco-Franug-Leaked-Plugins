@@ -35,6 +35,7 @@ Notes: (Read)
 - csgo.tokenstash.com he is 100% working with these guys, use [csgotokens](https://csgotokens.com), its cheaper, better support & more options (auto restart & more...)
 - WS, Knife & Gloves. Well he stole most of his code from the public, regularly updated plugin created by kgns (nice guy btw). [Better WS & Knife](https://forums.alliedmods.net/showthread.php?t=298770), [Better Gloves](https://forums.alliedmods.net/showthread.php?t=299977)
 - He tried to make his own steam invite bot at first, ended up stealing this code later on from [Better Steam Invite](https://forums.alliedmods.net/showthread.php?t=301755), also Arkarr is a really nice guy, helped me out a lot for free.
+- If you really want to block users from using "sm plugins" [here](https://github.com/Bara/BlockSMPlugins) is a free plugin.
 
 ```
 Submit a issue on Github or email me to added another replacement.
