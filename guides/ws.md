@@ -1,3 +1,5 @@
+[<- Back](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins)
+
 # Complementary plugins
 
 * If you want stattrak, nametag or wear plugin, you need to buy it from me (Franc1sco Franug).
