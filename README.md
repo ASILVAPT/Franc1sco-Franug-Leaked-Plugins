@@ -44,11 +44,11 @@ Submit a issue on Github or email me to added another replacement.
 - He claims all other plugins what provide a similar thing might give you viruses.
 - All other plugins will result in a GSLT ban.
 - He doesn't clearly state the ws plugin doesn't come with !knife. But after purchase the private repository clearly says "If you want a !knife plugin you need to use the private knife version, if you still dont have it, then buy it from me (Franc1sco franug)."
-- Selling illegal plugins for profit would could result in his clients being taken to court. For example his __Plugin multi adverts__ plugin breaks most MOTD advertisers terms of service.
+- Selling illegal plugins for profit would could result in his clients being taken to court. For example his __Multi adverts plugin__ breaks most MOTD advertisers terms of service.
 - Telling clients to not include .sp files.
 
 # Illegal / Unethical Plugins
-* __Plugin multi adverts__: for use all the advertisement services like motgd, sourcerev, VPPGamingNetwork, etc in one plugin, increasing a lot the earnings.
+* __Multi adverts plugin__: for use all the advertisement services like motgd, sourcerev, VPPGamingNetwork, etc in one plugin, increasing a lot the earnings.
 * __Block "sm plugins" commands__: for prevent that people can see the plugin list from your server. Include logging the client that try to use that commands, multi-language messege, inmmunity for root admins.
 * __Weapon paints private version 6.x__: fix console spam errors, fixes, optimizations include weapon paint attached to his corresponding weapon,multi-language support for all the paints, always updated with the new paints, full support, and methods for prevent bans in your server and you can use it always.
 * __Knife plugin 3.0__: Fix console spam errors, flag support for each knife, always updated with the new knives, full support, and methods for prevent bans in your server and you can use it always.
