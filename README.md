@@ -16,9 +16,10 @@ __So what do you get for $25+?__
 * Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/ws.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/PRIVATE-WeaponPaints-new2-master.zip) | WS
 * Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/invite.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Franug-AutoInviter-master.zip) | Steam Group Invite
 
+```
 __Have Private Plugins From Franc1sco?__
 
-> Email Me: fact.nation.buissness@gmail.com
+Email Me: fact.nation.buissness@gmail.com
 
 __Notes: (Read)__
 * Include the plugin name & release date.
@@ -29,6 +30,7 @@ __Notes: (Read)__
 * Mention your Github if you want me to include it in the Release.
 * I will not include your details unless you give me permission.
 * Please use a well known site for downloading files.
+```
 
 # Replacements for Franc1sco's Plugins
 - csgo.tokenstash.com he is 100% working with these guys, use [csgotokens](https://csgotokens.com), its cheaper, better support & more options (auto restart & more...)
