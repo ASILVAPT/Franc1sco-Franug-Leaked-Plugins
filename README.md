@@ -20,7 +20,7 @@ __Submit a issus to add anything to this list__
 # Franc1sco unethical scare tactics
 - He claims all other plugins what provide a similar thing might give you viruses.
 - All other plugins will result in a GSLT ban.
-- Just read this, If you want a !knife plugin you need to use the private knife version, if you still dont have it, then buy it from me (Franc1sco franug). Also this isn't care before buying the plugin.
+- He doesn't clearly state the ws plugin doesn't come with !knife, "If you want a !knife plugin you need to use the private knife version, if you still dont have it, then buy it from me (Franc1sco franug)."
 
 # Wanting a custom coded plugin?
 - [Submit a plugin request on alliedmods](https://forums.alliedmods.net/forumdisplay.php?f=60)
