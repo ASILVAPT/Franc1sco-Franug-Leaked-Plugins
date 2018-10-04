@@ -24,7 +24,7 @@ __Submit a issus to add anything to this list__
 - [Submit a plugin request on alliedmods](https://forums.alliedmods.net/forumdisplay.php?f=60)
 - Check the developers past projects/background.
 - Get a quota for time & cost.
-- Never use Franc1sco, he will over charge & give you poorly written code.
+- Never use Franc1sco, he will overcharge & give you poorly written code.
 
 # Franc1sco Contact
 __NEVER BUY ANYTHING OFF HIM__
