@@ -36,7 +36,9 @@ Notes: (Read)
 - WS, Knife & Gloves. Well he stole most of his code from the public, regularly updated plugin created by kgns (nice guy btw). [Better WS & Knife](https://forums.alliedmods.net/showthread.php?t=298770), [Better Gloves](https://forums.alliedmods.net/showthread.php?t=299977)
 - He tried to make his own steam invite bot at first, ended up stealing this code later on from [Better Steam Invite](https://forums.alliedmods.net/showthread.php?t=301755), also Arkarr is a really nice guy, helped me out a lot for free.
 
-__Submit a issus to add anything to this list__
+```
+Submit a issue on Github or email me to added another rplacement.
+```
 
 # Franc1sco unethical business
 - He claims all other plugins what provide a similar thing might give you viruses.
@@ -60,7 +62,7 @@ __Submit a issus to add anything to this list__
 - Get a quota for time & cost.
 - Never use Franc1sco, he will overcharge & give you poorly written code.
 
-# Franc1sco Screenshot Gallery
+# Screenshot Gallery
 ![Stealing code](https://i.gyazo.com/257a7f0657a24acdff7b693197ff61dd.png)
 
 # Franc1sco Contact
