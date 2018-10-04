@@ -17,7 +17,13 @@ __So what do you get for $25+?__
 * Group Invite | Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/invite.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Franug-AutoInviter-master.zip)
 
 > __Have Private Plugins From Franc1sco__
-Email me: fact.nation.buissness@gmail.com
+Email Me: fact.nation.buissness@gmail.com
+__Notes: (Read)__
+* Readme file from the repository.
+* Latest files, including sourcecode (.sp files).
+* Screenshots of Franc1sco being dumb.
+* Mention your Github if you want me to include it in the Release.
+* I will not include your details unless you give me permission.
 
 # Replacements for Franc1sco
 - csgo.tokenstash.com he is 100% working with these guys, use [csgotokens](https://csgotokens.com), its cheaper, better support & more options (auto restart & more...)
