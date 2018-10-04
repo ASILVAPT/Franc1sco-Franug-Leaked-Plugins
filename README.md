@@ -16,6 +16,9 @@ __So what do you get for $25+?__
 * WS | Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/ws.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/PRIVATE-WeaponPaints-new2-master.zip)
 * Group Invite | Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/invite.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Franug-AutoInviter-master.zip)
 
+> __Have Private Plugins From Franc1sco__
+Email me: fact.nation.buissness@gmail.com
+
 # Replacements for Franc1sco
 - csgo.tokenstash.com he is 100% working with these guys, use [csgotokens](https://csgotokens.com), its cheaper, better support & more options (auto restart & more...)
 - WS, Knife & Gloves. Well he stole most of his code from the public, regularly updated plugin created by kgns (nice guy btw). [Better WS & Knife](https://forums.alliedmods.net/showthread.php?t=298770), [Better Gloves](https://forums.alliedmods.net/showthread.php?t=299977)
