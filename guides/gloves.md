@@ -1,12 +1,12 @@
 Commands for open the main menu:
-sm_glove
-sm_gloves
-sm_arm
-sm_arms
-sm_manusa
-sm_manusi
+- sm_glove
+- sm_gloves
+- sm_arm
+- sm_arms
+- sm_manusa
+- sm_manusi
 
-Cvars
+> Cvars:
 Configure the cvars in cfg/sourcemod/csgo_gloves.cfg (autocreated file when you load the plugin)
 // Close menu after selection
 // -
