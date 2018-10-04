@@ -15,7 +15,14 @@ __So what do you get for $25+?__
 
 __Submit a issus to add anything to this list__
 
+# Wanting a custom coded plugin?
+- [Submit a plugin request on alliedmods](https://forums.alliedmods.net/forumdisplay.php?f=60)
+- Check the developers past projects/background.
+- Get a quota for time & cost.
+- Never use Franc1sco, he will over charge & give you poorly written code.
+
 # Franc1sco Contact
+__NEVER BUY ANYTHING OFF HIM__
 [Github](https://github.com/Franc1sco/Franug-PRIVATE-PLUGINS)
 [Steam](http://steamcommunity.com/profiles/76561198011608644)
 [Telegram](https://t.me/Franc1sco)
