@@ -11,6 +11,7 @@ __Commands for open the main menu:__
 ```
 Cvars:
 Configure the cvars in cfg/sourcemod/csgo_gloves.cfg (autocreated file when you load the plugin)
+
 // Close menu after selection
 // -
 // Default: "0"
