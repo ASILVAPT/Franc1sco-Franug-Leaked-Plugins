@@ -8,7 +8,7 @@ __So what do you get for $25+?__
 - Badly written plugins.
 - False advertising.
 - Adverts for Franc1sco on the $25+ plugin you just brought.
-- Stolen code. (He has admitted to it.) [Proof](https://i.gyazo.com/257a7f0657a24acdff7b693197ff61dd.png)
+- Stolen code. (He has admitted to it.) [Proof](https://camo.githubusercontent.com/3719639cc55142a1b1330ea3207f865c926bf553/68747470733a2f2f692e6779617a6f2e636f6d2f32353761376630363537613234616364666637623639333139376666363164642e706e67)
 
 # Releases
 - Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/gloves.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/CSGO-Gloves-master.zip) | Gloves
