@@ -1,2 +1,6 @@
-# Franc1sco-Franug-Leaked-Plugins
-Franc1sco is a overpriced SP coder who scams people for money.
+
+# About Franc1sco
+__steam__
+http://steamcommunity.com/profiles/76561198011608644
+__Telegram__
+https://t.me/Franc1sco
