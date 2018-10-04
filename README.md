@@ -30,7 +30,7 @@ __Notes: (Read)__
 * I will not include your details unless you give me permission.
 * Please use a well known site for downloading files.
 
-# Replacements for Franc1sco
+# Replacements for Franc1sco's Plugins
 - csgo.tokenstash.com he is 100% working with these guys, use [csgotokens](https://csgotokens.com), its cheaper, better support & more options (auto restart & more...)
 - WS, Knife & Gloves. Well he stole most of his code from the public, regularly updated plugin created by kgns (nice guy btw). [Better WS & Knife](https://forums.alliedmods.net/showthread.php?t=298770), [Better Gloves](https://forums.alliedmods.net/showthread.php?t=299977)
 - He tried to make his own steam invite bot at first, ended up stealing this code later on from [Better Steam Invite](https://forums.alliedmods.net/showthread.php?t=301755), also Arkarr is a really nice guy, helped me out a lot for free.
@@ -54,3 +54,6 @@ __NEVER BUY ANYTHING OFF HIM__
 [Github](https://github.com/Franc1sco/Franug-PRIVATE-PLUGINS)
 [Steam](http://steamcommunity.com/profiles/76561198011608644)
 [Telegram](https://t.me/Franc1sco)
+
+# Franc1sco Screenshot Gallery
+![Stealing code](https://i.gyazo.com/257a7f0657a24acdff7b693197ff61dd.png)
