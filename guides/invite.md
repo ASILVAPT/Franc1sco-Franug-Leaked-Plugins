@@ -40,9 +40,11 @@ After you have installed the plugin you need to configure the Steam account's cr
 }
 Use alphanumeric user/pass, max length: 32 characters
 Now to login to Steam servers you need join the server as a player and from console or chat (i recommend console) input the next command:
-sm_autoinviter_send_code or from chat /autoinviter_send_code
+
+> sm_autoinviter_send_code or from chat /autoinviter_send_code
 This will send a Steam Guard code to the configured e-mail of the account. Copy the code and input the next command with the code:
 sm_autoinviter_input_code YOURCODE
+
 If everything is right, you should have now completed the setup process, if not use the command sm_autoinviter_last_error to check the last error in the errors table.
 
 # Installation:
@@ -53,6 +55,7 @@ In the rest of servers, drag and drop, move morercon.smx from plugins/disabled d
 > sm_morercon_host "151.80.47.226" // Receptor server IP
 sm_morercon_port "27016" // Receptor server PORT
 sm_morercon_password "password" // Receptor server RCON password
+
 The receptor server need to allow rcon connections requests from the others servers.
 
 # Cvars for the autoinviter:
