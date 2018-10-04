@@ -10,6 +10,9 @@ __So what do you get for $25+?__
 - Adverts for Franc1sco on the $25+ plugin you just brought.
 - Stolen code. (He has admitted to it.) [Proof](https://i.gyazo.com/257a7f0657a24acdff7b693197ff61dd.png)
 
+# Releases
+* Gloves | Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/gloves.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/CSGO-Gloves-master.zip)
+
 # Replacements for Franc1sco
 - csgo.tokenstash.com he is 100% working with these guys, use [csgotokens](https://csgotokens.com), its cheaper, better support & more options (auto restart & more...)
 - WS, Knife & Gloves. Well he stole most of his code from the public, regularly updated plugin created by kgns (nice guy btw). [Better WS & Knife](https://forums.alliedmods.net/showthread.php?t=298770), [Better Gloves](https://forums.alliedmods.net/showthread.php?t=299977)
