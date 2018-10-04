@@ -21,6 +21,7 @@ __Have Private Plugins From Franc1sco?__
 > Email Me: fact.nation.buissness@gmail.com
 
 __Notes: (Read)__
+* Include the plugin name & release date.
 * A pastebin of the Readme file from the repository.
 * Screenshot of Readme helps.
 * Latest files, including sourcecode (.sp files).
