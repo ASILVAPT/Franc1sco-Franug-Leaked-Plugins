@@ -11,7 +11,7 @@ __So what do you get for $25+?__
 # Replacements for Franc1sco
 - csgo.tokenstash.com he is 100% working with these guys, use [csgotokens](https://csgotokens.com), its cheaper, better support & more options (auto restart & more...)
 - WS, Knife & Gloves. Well he stole most of his code from the public, regularly updated plugin created by kgns (nice guy btw). [Better WS & Knife](https://forums.alliedmods.net/showthread.php?t=298770), [Better Gloves](https://forums.alliedmods.net/showthread.php?t=299977)
-- He tried to make his own steam invite bot at first, ended up stealing this code later on [Better Steam Invite](https://forums.alliedmods.net/showthread.php?t=301755)
+- He tried to make his own steam invite bot at first, ended up stealing this code later on [Better Steam Invite](https://forums.alliedmods.net/showthread.php?t=301755), also Arkarr is a really nice guy, helped me out a lot for free.
 
 __Submit a issus to add anything to this list__
 
