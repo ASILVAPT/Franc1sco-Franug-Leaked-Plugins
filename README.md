@@ -18,12 +18,7 @@ __So what do you get for $25+?__
 
 > __Have Private Plugins From Franc1sco__
 Email Me: fact.nation.buissness@gmail.com
-__Notes: (Read)__
-* Readme file from the repository.
-* Latest files, including sourcecode (.sp files).
-* Screenshots of Franc1sco being dumb.
-* Mention your Github if you want me to include it in the Release.
-* I will not include your details unless you give me permission.
+__Notes: (Read)__* Readme file from the repository.* Latest files, including sourcecode (.sp files).* Screenshots of Franc1sco being dumb.* Mention your Github if you want me to include it in the Release.* I will not include your details unless you give me permission.
 
 # Replacements for Franc1sco
 - csgo.tokenstash.com he is 100% working with these guys, use [csgotokens](https://csgotokens.com), its cheaper, better support & more options (auto restart & more...)
