@@ -24,7 +24,6 @@ Email Me: fact.nation.buissness@gmail.com
 Notes: (Read)
 - Include the plugin name & release date.
 - A pastebin of the Readme file from the repository.
-- Screenshot of Readme helps.
 - Latest files, including sourcecode (.sp files).
 - Screenshots of Franc1sco being dumb.
 - Mention your Github if you want me to include it in the Release.
