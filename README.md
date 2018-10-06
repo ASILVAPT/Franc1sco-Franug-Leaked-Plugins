@@ -66,7 +66,7 @@ Franc1sco Franug [SM Coder] ❤❤
 :
 i recommended use my plugin instead, more safe
 ```
-After asking twice why his plugin is more safe I didn't get a single response what answered that question.
+After asking twice why his plugin is more safe I didn't get a single response what answered that question. This is clear evidence of Franc1sco abusing trust & people who don't understand the modding community in order to sell his plugins.
 
 # Illegal / Unethical Plugins
 * __Multi adverts plugin__: for use all the advertisement services like motgd, sourcerev, VPPGamingNetwork, etc in one plugin, increasing a lot the earnings.
