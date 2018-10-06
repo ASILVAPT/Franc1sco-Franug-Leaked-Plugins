@@ -69,7 +69,7 @@ i recommended use my plugin instead, more safe
 After asking twice why his plugin is more safe I didn't get a single response what answered that question. This is clear evidence of Franc1sco abusing trust & people who don't understand the modding community in order to sell his plugins.
 
 # Illegal / Unethical Plugins
-* __Multi adverts plugin__: for use all the advertisement services like motgd, sourcerev, VPPGamingNetwork, etc in one plugin, increasing a lot the earnings.
+* __Multi adverts plugin__: for use all the advertisement services like motgd, sourcerev, VPPGamingNetwork, etc in one plugin, increasing a lot the earnings. __(Note: Claim to be removed by Franc1sco after I mentioned it.)__
 * __Block "sm plugins" commands__: for prevent that people can see the plugin list from your server. Include logging the client that try to use that commands, multi-language messege, inmmunity for root admins.
 * __Weapon paints private version 6.x__: fix console spam errors, fixes, optimizations include weapon paint attached to his corresponding weapon,multi-language support for all the paints, always updated with the new paints, full support, and methods for prevent bans in your server and you can use it always.
 * __Knife plugin 3.0__: Fix console spam errors, flag support for each knife, always updated with the new knives, full support, and methods for prevent bans in your server and you can use it always.
