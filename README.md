@@ -64,6 +64,9 @@ Submit a issue on Github or email me to add another replacement.
 - Get a quota for time & cost.
 - Never use Franc1sco, he will overcharge & give you poorly written code.
 
+# Franc1sco Good side
+After exchanging some DMs between each other I feel it is worth adding this section ([Full Chat Logs](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins#full-dm-logs)).
+
 # Screenshot Gallery
 ![Stealing code](https://i.gyazo.com/257a7f0657a24acdff7b693197ff61dd.png)
 
