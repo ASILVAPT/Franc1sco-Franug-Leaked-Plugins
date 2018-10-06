@@ -66,7 +66,9 @@ Submit a issue on Github or email me to add another replacement.
 
 # Franc1sco Good side
 After exchanging some DMs between each other I feel it is worth adding this section ([Full Chat Logs](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins#full-dm-logs)).
-He has helped out the sourcemod community over a numerous amount of years with releasing over 100+ plublic plugins, as seen [here](https://forums.alliedmods.net/member.php?u=94277). __But__ this does not justify or exonerate his illegal and unethical activites.  
+He has helped out the sourcemod community over a numerous amount of years with releasing over 100+ plublic plugins, as seen [here](https://forums.alliedmods.net/member.php?u=94277).
+
+__But__ this does not justify or exonerate his illegal and unethical activites.  
 
 ```
 Franc1sco Franug [SM Coder] ❤❤
