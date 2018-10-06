@@ -49,6 +49,25 @@ Submit a issue on Github or email me to add another replacement.
 - Selling illegal plugins for profit would could result in his clients being taken to court. For example his __Multi adverts plugin__ breaks most MOTD advertisers terms of service.
 - Telling clients to not include .sp files.
 
+__Now this is shady__
+```
+Thursday, October 4, 2018
+Ward
+:
+Hey
+I've been looking at this guy plugin
+https://forums.alliedmods.net/showthread.php?t=298770
+Did he steal the code off you?
+Could i get a virus?
+please reply looks like a neat plugin, dont really want to spend money
+
+Thursday, October 4, 2018
+Franc1sco Franug [SM Coder] ❤❤
+:
+i recommended use my plugin instead, more safe
+```
+After asking twice why his plugin is more safe I didn't get a single response what answered that question.
+
 # Illegal / Unethical Plugins
 * __Multi adverts plugin__: for use all the advertisement services like motgd, sourcerev, VPPGamingNetwork, etc in one plugin, increasing a lot the earnings.
 * __Block "sm plugins" commands__: for prevent that people can see the plugin list from your server. Include logging the client that try to use that commands, multi-language messege, inmmunity for root admins.
@@ -80,7 +99,7 @@ hope you understand
 
 I understand his justification & can relate to it. But it doesn't justify his actions.
 
-After alerting him that his __Multi adverts plugin__ breaks most MOTD advertisers terms of service he claimed he has halted from sellinh it, he did remove it from his [store](https://github.com/Franc1sco/Franug-PRIVATE-PLUGINS), but for I know he is still selling it. But if it turns out he isn't anymore then that does prove he does have some best interests at heart.
+After alerting him that his __Multi adverts plugin__ breaks most MOTD advertisers terms of service he claimed he has halted from selling it, he did remove it from his [store](https://github.com/Franc1sco/Franug-PRIVATE-PLUGINS), but for I know he is still selling it. But if it turns out he isn't anymore then that does prove he does have some best interests at heart.
 
 ```
 Franc1sco Franug [SM Coder] ❤❤
