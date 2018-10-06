@@ -66,7 +66,17 @@ Submit a issue on Github or email me to add another replacement.
 
 # Franc1sco Good side
 After exchanging some DMs between each other I feel it is worth adding this section ([Full Chat Logs](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins#full-dm-logs)).
-He has helped out the sourcemod community over numerous amount of years with releasing over 100+ plublic plugins, as seen [here](https://forums.alliedmods.net/member.php?u=94277).
+He has helped out the sourcemod community over a numerous amount of years with releasing over 100+ plublic plugins, as seen [here](https://forums.alliedmods.net/member.php?u=94277). __But__ this does not justify or exonerate his illegal and unethical activites.  
+
+```
+Franc1sco Franug [SM Coder] ❤❤
+:
+scammy not, unethical maybe (against valve, etc), i just do what people said me to do
+scammers, haters, resellers, etc make me to lose a bit the ethical selling sourcemod stuff, and as i said i need a bit money for gasoil/stuff to finish my studies for get a real job and leave all of these
+hope you understand
+```
+
+I understand his justification & can relate to it. But it doesn't justify his actions.
 # Screenshot Gallery
 ![Stealing code](https://i.gyazo.com/257a7f0657a24acdff7b693197ff61dd.png)
 
