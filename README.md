@@ -79,6 +79,9 @@ hope you understand
 ```
 
 I understand his justification & can relate to it. But it doesn't justify his actions.
+
+After alerting him that his __Multi adverts plugin__ breaks most MOTD advertisers terms of service he claimed he has halted from sellinh it, he did remove it from his [store](https://github.com/Franc1sco/Franug-PRIVATE-PLUGINS), but for I know he is still selling it. But if it turns out he isn't anymore then that does prove he does have some best interests at heart
+
 # Screenshot Gallery
 ![Stealing code](https://i.gyazo.com/257a7f0657a24acdff7b693197ff61dd.png)
 
