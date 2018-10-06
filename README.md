@@ -64,7 +64,7 @@ Submit a issue on Github or email me to add another replacement.
 - Get a quota for time & cost.
 - Never use Franc1sco, he will overcharge & give you poorly written code.
 
-# Franc1sco Good side
+# Franc1sco Humanised
 After exchanging some DMs between each other I feel it is worth adding this section ([Full Chat Logs](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins#full-dm-logs)).
 He has helped out the sourcemod community over a numerous amount of years with releasing over 100+ plublic plugins, as seen [here](https://forums.alliedmods.net/member.php?u=94277).
 
@@ -80,7 +80,14 @@ hope you understand
 
 I understand his justification & can relate to it. But it doesn't justify his actions.
 
-After alerting him that his __Multi adverts plugin__ breaks most MOTD advertisers terms of service he claimed he has halted from sellinh it, he did remove it from his [store](https://github.com/Franc1sco/Franug-PRIVATE-PLUGINS), but for I know he is still selling it. But if it turns out he isn't anymore then that does prove he does have some best interests at heart
+After alerting him that his __Multi adverts plugin__ breaks most MOTD advertisers terms of service he claimed he has halted from sellinh it, he did remove it from his [store](https://github.com/Franc1sco/Franug-PRIVATE-PLUGINS), but for I know he is still selling it. But if it turns out he isn't anymore then that does prove he does have some best interests at heart.
+
+```
+Franc1sco Franug [SM Coder] ❤❤
+:
+Selling illegal plugins for profit would could result in his clients being taken to court. For example his Multi adverts plugin breaks most MOTD advertisers terms of service. -Really? i dont think so, its GPL licenced plugins.
+```
+Just because the plugin is licenced under GPL doesn't mean its ethical to steal large amount of code without even mentioning the author, selling it privately & then written your name over it.
 
 # Screenshot Gallery
 ![Stealing code](https://i.gyazo.com/257a7f0657a24acdff7b693197ff61dd.png)
