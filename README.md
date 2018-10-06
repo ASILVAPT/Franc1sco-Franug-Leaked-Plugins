@@ -106,7 +106,7 @@ Franc1sco Franug [SM Coder] ❤❤
 :
 Selling illegal plugins for profit would could result in his clients being taken to court. For example his Multi adverts plugin breaks most MOTD advertisers terms of service. -Really? i dont think so, its GPL licenced plugins.
 ```
-Just because the plugin is licenced under GPL doesn't mean its ethical to steal large amount of code without even mentioning the author, selling it privately & then written your name over it.
+Just because the plugin is licenced under GPL doesn't mean its ethical to steal large amount of code without even mentioning the author, selling it privately & then writing your name over it.
 
 # Screenshot Gallery
 ![Stealing code](https://i.gyazo.com/257a7f0657a24acdff7b693197ff61dd.png)
