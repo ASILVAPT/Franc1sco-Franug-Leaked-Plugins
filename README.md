@@ -15,7 +15,7 @@ __So what do you get for $25+?__
 - Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/knife.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/New-Franug-PRIVATE-knifes-master.zip) | Knife
 - Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/ws.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/PRIVATE-WeaponPaints-new2-master.zip) | WS
 - Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/invite.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Franug-AutoInviter-master.zip) | Steam Group Invite
-- Latest | [Download](https://github.com/KewaiiGamer/Franug-Plugins-Fixed) | Leaked By [KewaiiGamer](https://github.com/KewaiiGamer) | DeadGames
+- Fixed | [Download](https://github.com/KewaiiGamer/Franug-Plugins-Fixed) | Leaked By [KewaiiGamer](https://github.com/KewaiiGamer) | DeadGames
 
 ```
 Have Private Plugins From Franc1sco?
