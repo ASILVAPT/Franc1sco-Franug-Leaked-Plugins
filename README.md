@@ -11,11 +11,13 @@ __So what do you get for $25+?__
 - Stolen code. (He has admitted to it.) [Proof](https://camo.githubusercontent.com/3719639cc55142a1b1330ea3207f865c926bf553/68747470733a2f2f692e6779617a6f2e636f6d2f32353761376630363537613234616364666637623639333139376666363164642e706e67)
 
 # Releases
-- Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/gloves.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/CSGO-Gloves-master.zip) | Gloves
-- Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/knife.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/New-Franug-PRIVATE-knifes-master.zip) | Knife
-- Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/ws.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/PRIVATE-WeaponPaints-new2-master.zip) | WS
-- Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/invite.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Franug-AutoInviter-master.zip) | Steam Group Invite
-- Fixed | [Download](https://github.com/KewaiiGamer/Franug-Plugins-Fixed) | Leaked By [KewaiiGamer](https://github.com/KewaiiGamer) | DeadGames
+| Status | Guides                                                                                              | Download                                                                                                                   | Leaked By                                     | Plugin             |
+|--------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------|
+| Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/gloves.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/CSGO-Gloves-master.zip)               | Myself                                        | Gloves             |
+| Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/knife.md)  | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/New-Franug-PRIVATE-knifes-master.zip) | Myself                                        | Knife              |
+| Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/ws.md)     | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/PRIVATE-WeaponPaints-new2-master.zip) | Myself                                        | WS                 |
+| Latest | [Guide](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/guides/invite.md) | [Download](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/Franug-AutoInviter-master.zip)        | Myself                                        | Steam Group Invite |
+| Fixed  | None                                                                                                | [Download](https://github.com/KewaiiGamer/Franug-Plugins-Fixed)                                                            | [KewaiiGamer](https://github.com/KewaiiGamer) | DeadGames          |
 
 ```
 Have Private Plugins From Franc1sco?
