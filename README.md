@@ -1,6 +1,8 @@
 # About Franc1sco
 Franc1sco sells overprice, poorly written code for around 25+ USD. He claims to be a "Veteran Sourcemod Coder" but still __Steals__ code off other users without mentioning them at all. 
 
+I think Kewaii Gamer explains him well [here](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/sourcecode/Franug-DeadGames-Original/README.md) & [here](https://github.com/WardPearce/Franc1sco-Franug-Leaked-Plugins/blob/master/sourcecode/Franug-DeadGames-Fixed-By-Kewaii/README.md). 
+
 __Feel free to download his "private" plugins above__
 
 __So what do you get for $25+?__
